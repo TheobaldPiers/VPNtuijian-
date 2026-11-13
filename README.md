@@ -181,8 +181,9 @@
 - **Android 安卓端：** 推荐使用 `v2rayNG`（最新版 2.3.15）、`Surfboard` 或 `Clash Meta`。
 - **iOS 苹果端：** 推荐使用 `Shadowrocket`（小火箭）或 `Stash`（需使用非中国大陆区 Apple ID 登录 App Store 下载）。
 
-> 👉 **全平台客户端官方正版安装包汇总：** [点击前往获取最新客户端下载地址 >>](https://github.com/AdelaideBowman/Clash-/tree/main)
+ > 👉 **全平台客户端官方正版安装包汇总：** [点击前往获取最新客户端下载地址 >>](https://github.com/AdelaideBowman/Clash-/tree/main)
 
+     温馨提示：点击后会进入官方发布页，请在页面下方的 Assets（资产） 列表中，找到对应自己系统的安装包点击下载。
 ---
 
 ## 🤝 贡献与免责声明

@@ -175,11 +175,13 @@
 
 ---
 
-## 💻 客户端下载推荐
+## 💻 客户端下载推荐及下载地址
 
 - **Windows / macOS 桌面端：** 推荐使用 `Clash Verge Rev`（最新版 v2.5.10，界面现代、功能强大）或 `v2rayN`（基于最新 mihomo 内核 v1.19.34）。
 - **Android 安卓端：** 推荐使用 `v2rayNG`（最新版 2.3.15）、`Surfboard` 或 `Clash Meta`。
 - **iOS 苹果端：** 推荐使用 `Shadowrocket`（小火箭）或 `Stash`（需使用非中国大陆区 Apple ID 登录 App Store 下载）。
+
+> 👉 **全平台客户端官方正版安装包汇总：** [点击前往获取最新客户端下载地址 >>](https://github.com/AdelaideBowman/Clash-/tree/main)
 
 ---
 

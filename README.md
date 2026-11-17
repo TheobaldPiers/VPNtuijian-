@@ -7,7 +7,7 @@
 
 ## 🎯 快速结论：2026 年机场推荐怎么选？
 
-- **要风控低，AI 养号 + 跨境电商：** 选 [**苏菲家宽**](https://www.sufe.pro/register?code=VA1k1GVa)，独占美日住宅家庭宽带原生 IP，3 元起，彻底解决验证码问题。
+- **要风控低，AI 养号 + 跨境电商：** 选 [**苏菲家宽**](https://www.sufe.us/register?code=VA1k1GVa)，独占美日住宅家庭宽带原生 IP，3 元起，彻底解决验证码问题。
 - **要性价比，学生党 + 容灾备用：** 选 [**西游云**](https://e.xiyou666.xyz/?code=3mcCkeLW)，9 元/月起，企业级 IEPL 专线 + BGP 多线中转。
 - **要不限设备，全家共享 + 8K 秒开：** 选 [**XXYUN**](https://www.xx-yun.com/?code=5r5AXWEG)，9.99 元/月起，完全取消在线设备连接数量限制。
 - **要全能追剧，老牌稳健 + 大流量池：** 选 [**飞鸟云**](https://www.112112789.xyz/?code=SeDAhZiv)，10 元/月起，华为云 BGP 入口 + 广港 IEPL 内网专线。
@@ -22,7 +22,7 @@
 
 | 排名 | 机场名称 | 线路与协议 | 解锁能力 | 适合人群 | 官网直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 🥇 | **苏菲家宽** | 独占住宅原生 IP / IPLC 专线 | ChatGPT / Claude / TikTok / Netflix | 跨境电商、AI 养号、防风控 | [**立即前往**](https://www.sufe.pro/register?code=VA1k1GVa) |
+| 🥇 | **苏菲家宽** | 独占住宅原生 IP / IPLC 专线 | ChatGPT / Claude / TikTok / Netflix | 跨境电商、AI 养号、防风控 | [**立即前往**](https://www.sufe.us/register?code=VA1k1GVa) |
 | 🥈 | **XXYUN** | 全线物理 IEPL 专线 / 不限设备数 | 8K YouTube / Netflix / Disney+ / GPT | 多端共享、8K 追剧、游戏 | [**立即前往**](https://www.xx-yun.com/?code=5r5AXWEG) |
 | 🥉 | **飞鸟云** | 华为云 BGP + 广港 IEPL 专线 | Netflix / Disney+ / HBO / ChatGPT | 全能影音、AI 协同办公 | [**立即前往**](https://www.112112789.xyz/?code=SeDAhZiv) |
 | 4 | **西游云** | 企业级 IEPL 专线 / CN2 GIA | YouTube 4K / Netflix / GPT / Gemini | 极致性价比、Plan B 备用 | [**立即前往**](https://e.xiyou666.xyz/?code=3mcCkeLW) |
@@ -36,7 +36,7 @@
 # 1. 苏菲家宽
 ### 2026 高纯度住宅 IP 机场推荐：独占家宽原生 IP，AI 养号与防风控首选
 
-## 📌 [**官网直达：点此进入苏菲家宽官方网站注册**](https://www.sufe.pro/register?code=VA1k1GVa)
+## 📌 [**官网直达：点此进入苏菲家宽官方网站注册**](https://www.sufe.us/register?code=VA1k1GVa)
 推荐指数：⭐⭐⭐⭐⭐（5/5 - 跨境电商与 AI 高阶养号必备）
 
 #### 为什么选择苏菲家宽？
@@ -120,8 +120,8 @@
 
 1. **先定用途，再看价格：**
    - **追剧党：** 重点看流媒体解锁和晚高峰速度，白天测速再快也没用，晚上 8–10 点不卡才算数（推荐 [**XXYUN**](https://www.xx-yun.com/?code=5r5AXWEG)、[**飞鸟云**](https://www.112112789.xyz/?code=SeDAhZiv)）。
-   - **AI 和办公：** 重点看 IP 纯净度与稳定性，ChatGPT、Claude 触发风控或断线非常影响效率（推荐 [**苏菲家宽**](https://www.sufe.pro/register?code=VA1k1GVa)）。
-   - **偶尔用：** 一个月用不了几次的，别买包月套餐，不限时流量包更划算，用完才停（推荐 [**苏菲家宽**](https://www.sufe.pro/register?code=VA1k1GVa)、[**星辰加速器**](https://xc.luniu8.com/?code=bqdGLU6z)）。
+   - **AI 和办公：** 重点看 IP 纯净度与稳定性，ChatGPT、Claude 触发风控或断线非常影响效率（推荐 [**苏菲家宽**](https://www.sufe.us/register?code=VA1k1GVa)）。
+   - **偶尔用：** 一个月用不了几次的，别买包月套餐，不限时流量包更划算，用完才停（推荐 [**苏菲家宽**](https://www.sufe.us/register?code=VA1k1GVa)、[**星辰加速器**](https://xc.luniu8.com/?code=bqdGLU6z)）。
    - **游戏玩家：** 重点看延迟和落地地区，优先选择物理 IEPL 专线节点（推荐 [**XXYUN**](https://www.xx-yun.com/?code=5r5AXWEG)、[**西游云**](https://e.xiyou666.xyz/?code=3mcCkeLW)）。
 
 2. **判断一家机场靠不靠谱，看这三点：**
@@ -153,7 +153,7 @@
   广义上都是翻墙工具。“机场”是中文圈对订阅制代理服务的俗称，基于 Shadowsocks / V2Ray / Trojan / Hysteria 2 等协议，通过订阅链接在客户端（如 Clash、Shadowrocket）中使用；传统 VPN 则是整机隧道。本页推荐的机场节点均为国内实测可用，速度与稳定性普遍优于普通 VPN。
 
 * **2026 年机场推荐首选哪家？**
-  看需求：做 AI 开发、跨境电商防风控选 [**苏菲家宽**](https://www.sufe.pro/register?code=VA1k1GVa)；多设备共享、追求 8K 秒开选 [**XXYUN**](https://www.xx-yun.com/?code=5r5AXWEG)；老牌全能追剧选 [**飞鸟云**](https://www.112112789.xyz/?code=SeDAhZiv)；极致性价比和备用选 [**西游云**](https://e.xiyou666.xyz/?code=3mcCkeLW) 或 [**星辰加速器**](https://xc.luniu8.com/?code=bqdGLU6z)；日常办公挂载选 [**CCYZ**](https://www.ccyz123.com/?code=8IM1V9Ds)。建议主力 + 备用至少搭配 2 家。
+  看需求：做 AI 开发、跨境电商防风控选 [**苏菲家宽**](https://www.sufe.us/register?code=VA1k1GVa)；多设备共享、追求 8K 秒开选 [**XXYUN**](https://www.xx-yun.com/?code=5r5AXWEG)；老牌全能追剧选 [**飞鸟云**](https://www.112112789.xyz/?code=SeDAhZiv)；极致性价比和备用选 [**西游云**](https://e.xiyou666.xyz/?code=3mcCkeLW) 或 [**星辰加速器**](https://xc.luniu8.com/?code=bqdGLU6z)；日常办公挂载选 [**CCYZ**](https://www.ccyz123.com/?code=8IM1V9Ds)。建议主力 + 备用至少搭配 2 家。
 
 * **机场会被墙吗？买了之后用不了怎么办？**
   有可能。GFW 会不定期封锁 IP 和端口，这是所有跨境服务的共性风险。应对办法：① 选择有多个 BGP 入口或 IEPL 专线的机场；② 手头备 2～3 个不同架构的机场；③ 优先月付或不限时按量套餐。
@@ -162,7 +162,7 @@
   iOS 端主流是 `Shadowrocket`（小火箭）和 `Stash`，需要外区 Apple ID 下载。安卓用 `Surfboard` / `Clash Meta` / `v2rayNG`，Windows / Mac 用 `Clash Verge Rev` 或 `v2rayN`。订阅链接复制进客户端即可一键导入节点。
 
 * **机场节点能解锁 ChatGPT 和 Netflix 吗？**
-  本页推荐的六家机场均支持解锁 ChatGPT、Claude、Netflix、Disney+、TikTok 等主流流媒体与 AI 应用。其中 [**苏菲家宽**](https://www.sufe.pro/register?code=VA1k1GVa) 更是提供独占住宅原生 IP，抗风控能力最强。
+  本页推荐的六家机场均支持解锁 ChatGPT、Claude、Netflix、Disney+、TikTok 等主流流媒体与 AI 应用。其中 [**苏菲家宽**](https://www.sufe.us/register?code=VA1k1GVa) 更是提供独占住宅原生 IP，抗风控能力最强。
 
 * **一个月大概需要多少流量？**
   轻度使用（聊天、查资料）50～100G 足够；经常刷视频、追剧建议 200G 以上；下载、AI 高频用户直接上不限时按量套餐。拿不准先买月付试一个月，再按实际用量调整。
